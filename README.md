@@ -1,7 +1,7 @@
 # estrutura-de-dados
 Vetor
 
-Aqui estou mostrando as possibilidades de trabalhar com um Vetor.
+Aqui estou mostrando as possibilidades de trabalhar com um Vetor./n
 1 - Criando Vetor onde o usuário passa o tamanho inicial do Vetor.
 2 - Adicionando elementos ao Vetor.
 3 - Aumentando a capacidade do Vetor.
