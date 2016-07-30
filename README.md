@@ -1,5 +1,5 @@
 # estrutura-de-dados
-Vetor
+Vetor do tipo String
 
 Aqui estou mostrando as possibilidades de trabalhar com um Vetor.
 #
